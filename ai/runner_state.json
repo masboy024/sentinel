@@ -1,0 +1,863 @@
+{
+  "next_block": 12143198,
+  "window": [
+    196000,
+    190500,
+    184000,
+    176500,
+    168000,
+    159000,
+    149500,
+    140000,
+    131000,
+    123500,
+    117000,
+    111500,
+    107000,
+    103000,
+    99500,
+    96000
+  ],
+  "verdicts": [
+    {
+      "block": 12142889,
+      "price": 200330,
+      "risk": 16,
+      "regime": "calm",
+      "inputHash": "0xc8d0efe68779db6a39f86a880166af0637d2cda203c4aee44a6885401add843c",
+      "tx": "0x522788c48dcda23f5454d66b7bfa5c77202dbe02a47e8a2ca962f4bf890e906f"
+    },
+    {
+      "block": 12142891,
+      "price": 196000,
+      "risk": 28,
+      "regime": "calm",
+      "inputHash": "0xb1321aef012d28f53de2d15e7e401ce451d990ab3a9593c699d8c6c790477493",
+      "tx": "0x1a11e49674fe380a8935e4144f8a43ec43f1ef267ff8a5f3c2feca350052287c"
+    },
+    {
+      "block": 12142892,
+      "price": 190500,
+      "risk": 41,
+      "regime": "volatile",
+      "inputHash": "0x90bbbb82c99b50023aa5c72d73301d29aa73efe7811d07beab743f02ecacbcb6",
+      "tx": "0x62baacb161440dd1bf3a14f7cedb12f8849fb5c6cf26461a80623cf85a208aff"
+    },
+    {
+      "block": 12142893,
+      "price": 184000,
+      "risk": 52,
+      "regime": "volatile",
+      "inputHash": "0x447636a993ee5696e06c4d61e9c865eca5737e7a3b237462ac014da7dba7a0ce",
+      "tx": "0xc1df18dedff8da10e290636b7f1d3289a0ce026cf9c6eefe774a8c854dc64407"
+    },
+    {
+      "block": 12142894,
+      "price": 176500,
+      "risk": 59,
+      "regime": "volatile",
+      "inputHash": "0x7455653ea0f483250bc15c656b2b73217b3005fd0663f1f75da35db557746cc7",
+      "tx": "0xd029c8588b76ac8c9a5390d3450a7fa42eaacd639c711fa59d6ce3506cb428ba"
+    },
+    {
+      "block": 12142895,
+      "price": 168000,
+      "risk": 63,
+      "regime": "volatile",
+      "inputHash": "0xc83f6c2eaa7129558f485b331e6a69fccbfbf6872c043643d843d04116fac553",
+      "tx": "0xaa90220c3dbe1d730e34624563e920fa945476e31b25039fc2b76ac5f0af47a1"
+    },
+    {
+      "block": 12142896,
+      "price": 159000,
+      "risk": 71,
+      "regime": "volatile",
+      "inputHash": "0x0ebcb3124506bb1dae8c5277730d7db6c09ae85c7d0d826c0aca8baf44dcd402",
+      "tx": "0x5ef24721660af759faa9ba7c50a518d16affb1d600056d262b16ab46492d7c1e"
+    },
+    {
+      "block": 12142897,
+      "price": 149500,
+      "risk": 77,
+      "regime": "volatile",
+      "inputHash": "0x672084eb660382903ed87b23231c04b874161cfce810e6bdddfbd697244f4cf2",
+      "tx": "0xc5030b22179d0d2c0680ea5e72ce1a8e67e16971d090058a5dc96d3b552c351d"
+    },
+    {
+      "block": 12142898,
+      "price": 140000,
+      "risk": 83,
+      "regime": "crash-risk",
+      "inputHash": "0xe409535f2eb4bde2587b6c38df86634b3d0c611a922bdcd2c320fcc1ef76ecc0",
+      "tx": "0x27b5daf07b1d8b180b19480c91ab777c548cc02e9f1342214868de359a94b2e8"
+    },
+    {
+      "block": 12142899,
+      "price": 131000,
+      "risk": 86,
+      "regime": "crash-risk",
+      "inputHash": "0xb4fec09c1e0ec8ec5e2201bea89c45dbc36eba19391733ecef0abe7d5d52cb59",
+      "tx": "0x19208638369486283b837715bf62dbda80eadb0bf7ceda4ce54fc2333f67cc7a"
+    },
+    {
+      "block": 12142900,
+      "price": 123500,
+      "risk": 87,
+      "regime": "crash-risk",
+      "inputHash": "0x1d0e80233776fe1857a44071fa10c7ce6bef750ffe04ef947b51777dd0ed1cf9",
+      "tx": "0x8099aa687e56042f7218144d157a7620a7534962136f8c8cd7df2249a0b2b2a4"
+    },
+    {
+      "block": 12142901,
+      "price": 117000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x165043e23706a8f505522ceb41b011eee8d9328152ada9a350b163ac6e0c6375",
+      "tx": "0x1ba5614c5a0f647a16ab1092cb0be094a20ef7d064c70ab731179b6a62d3f66a"
+    },
+    {
+      "block": 12142902,
+      "price": 111500,
+      "risk": 89,
+      "regime": "crash-risk",
+      "inputHash": "0x4a847ddd148f22be329f3a52e8f6a0a07ad96611eb10a2ade25cf919e2386d5b",
+      "tx": "0x5854d5bd0f0b14ecfcc8b9261001e109f728290cd22863567ac0d593ba826d01"
+    },
+    {
+      "block": 12142903,
+      "price": 107000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x8dc16cf14f0bef536631b44e0236af8487756b62dd4960ec0976268fffa0d321",
+      "tx": "0xdac300ce810bc723bdd9daa99dbcc98cbe5d1d8626464a5566c6da0c33f2c243"
+    },
+    {
+      "block": 12142904,
+      "price": 103000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x510cec6e67796832ec741a5b8c100bd8bcab3a686c2860638da58e2ca5fde7f5",
+      "tx": "0xd852c9c59b952e35a898496b8c73daf5005416f5d2fbe92e45e97f9388387eee"
+    },
+    {
+      "block": 12142905,
+      "price": 99500,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x7469bab313d8159f1e892b6acb4c008e4e89c2cfb1e179e79fccc15a67932907",
+      "tx": "0x7ded2069a19924fe860fc24355c98fdac630ffd26e3ba2d805fc8eca489ee4e6"
+    },
+    {
+      "block": 12142906,
+      "price": 96000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xa92f16adba233fb7e4c5e64eb03688711fdd74563febb30c895df547b9419066",
+      "tx": "0xdd9cd0fa328836acdfe48355ddd6fd20b80311f963b3c9b908b5b58e3e650fea"
+    },
+    {
+      "block": 12142926,
+      "price": 98500,
+      "risk": 87,
+      "regime": "crash-risk",
+      "inputHash": "0x5ed63190549feba5e4c3dcc600cf155f7513c0baa5489809ad78d01cf18c1bd1",
+      "tx": "0x92b1b65c5d8c5a2f7b823261aad747b98cfa8eb4d42a7900c9cff43390719bda"
+    },
+    {
+      "block": 12142927,
+      "price": 95500,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xd9148bf3ce50cabe17925b19bd77f4b1cfa816313a0564b49ecb804927a9e959",
+      "tx": "0x8692bf8aa02fd9a87a2b0021dee9f20e88001f075b4cf99ffeb0e3641a4e4649"
+    },
+    {
+      "block": 12142928,
+      "price": 99000,
+      "risk": 87,
+      "regime": "crash-risk",
+      "inputHash": "0x883182b30a510f4e461c63767bd62080653541acfa8c37112e01289db3f164c6",
+      "tx": "0x3c3cccc0e532add0721ea9e82975653c7585b9458d5a714eec62930021258b8e"
+    },
+    {
+      "block": 12142929,
+      "price": 96000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xc4a10fd1a609ffb42d644bc3c6f0aa29d781afe3fbed668eaf15d13ffac08733",
+      "tx": "0xab94eae0a0048a369afa56a4de92aa20112a42b64b0ed4e1a7b02cf5c8701254"
+    },
+    {
+      "block": 12142930,
+      "price": 100000,
+      "risk": 84,
+      "regime": "volatile",
+      "inputHash": "0xb2e646d361b472a3e5330a82f1426495100f6703285361bfe8faf70a0162d1a1",
+      "tx": "0xa251bf20608bc110cbcc4f71e1dfa623e7217b99a89677ac29b0fbafb002fbf5"
+    },
+    {
+      "block": 12142931,
+      "price": 97000,
+      "risk": 84,
+      "regime": "crash-risk",
+      "inputHash": "0xa4bb400ba073a4059563395d5c6787cb40ef333e8fbe4058f80c6e74efdb4243",
+      "tx": "0xc091bb621d149b897ecb966d402509dece034071d970dde7a7b5dcaf561ca343"
+    },
+    {
+      "block": 12142932,
+      "price": 99500,
+      "risk": 77,
+      "regime": "volatile",
+      "inputHash": "0xeeae2d57884684fa0f790311d2c2a40288d35042cc7eef0bbdaa154318927274",
+      "tx": "0x744d6fb9d5a1dd11a64a882cd9b43688720e0f10f51b1a2db12aeec56850c512"
+    },
+    {
+      "block": 12142933,
+      "price": 96500,
+      "risk": 74,
+      "regime": "volatile",
+      "inputHash": "0xe0a1a4ab287460f4f667f531e26ba5721d92c14e09e8ccdd65a49cc21b7f7a2c",
+      "tx": "0x2a12022fdcd529c14344074b6a483c4163353a7f1d7efa28ce38cd04908047ce"
+    },
+    {
+      "block": 12142934,
+      "price": 100500,
+      "risk": 61,
+      "regime": "volatile",
+      "inputHash": "0xafaf37b4e4dc44566726722beee9bf97614915d407eb5283434130f52b6215e7",
+      "tx": "0x456eac8b1ba9580bf9a9fe5abe67ea619e569497800555e7efade480b0d3f63e"
+    },
+    {
+      "block": 12142935,
+      "price": 97500,
+      "risk": 61,
+      "regime": "volatile",
+      "inputHash": "0xe88e2410fea19347f564c7a15d6db7d76aeaae8c4822fb1a27f37b0eceb53833",
+      "tx": "0xa1971c964b02bd464c259e4d683fcfb784b7662943d06fdde48915dd35ca2f49"
+    },
+    {
+      "block": 12142936,
+      "price": 99000,
+      "risk": 54,
+      "regime": "volatile",
+      "inputHash": "0xa4c6a551d01e0e27510ae72937440224c697a6336059459909157e49cc087442",
+      "tx": "0xccd28914a25cd61856f15160fcc311bd9524e82044194febf7a2ebd33fe44dec"
+    },
+    {
+      "block": 12142937,
+      "price": 96000,
+      "risk": 55,
+      "regime": "volatile",
+      "inputHash": "0xf6bda1e21de33883a4e0e8ba19ca7506c9d51d38c0aaa393fccb54fde77eb6fd",
+      "tx": "0xbbb19f781392438d54521989bc4b2655f9d4075e16ad9ca5d853012c540c5da3"
+    },
+    {
+      "block": 12142938,
+      "price": 98500,
+      "risk": 50,
+      "regime": "volatile",
+      "inputHash": "0x74fa6dcd366d930310b4fb74224895e375de76604431b3dbd80e2dd8cfd5ef3e",
+      "tx": "0x8516949efb825e7e0f475dc1df47aaf7286080a13f72f79d0e5766820ad6e355"
+    },
+    {
+      "block": 12142939,
+      "price": 95500,
+      "risk": 52,
+      "regime": "volatile",
+      "inputHash": "0xdf03d21ce93f6e482fb943a59362df25a3ce081cbc3d2e301ca1d2bd29744103",
+      "tx": "0xccdb18bdc91a86e47a3a4d5fe34bac802282dacc225969944e8c61b07e5549a6"
+    },
+    {
+      "block": 12142940,
+      "price": 99000,
+      "risk": 50,
+      "regime": "volatile",
+      "inputHash": "0x5dcd30c6ae332b99c35819927180b4c50bb5323f8022e2c10706c3b0068c347d",
+      "tx": "0x48534f611a943fd18102ee1175a01466f0681018dc8f4680e073e990859f3e3a"
+    },
+    {
+      "block": 12142941,
+      "price": 97500,
+      "risk": 52,
+      "regime": "volatile",
+      "inputHash": "0x1f2b133b3d2f089918f81c8adb82ec8e82199a9cee5a030b1ab51dd91e6ec713",
+      "tx": "0xe9f77d680dbc37ceb2b560474c74a66804fcf273063398184c9c706592137009"
+    },
+    {
+      "block": 12142984,
+      "price": 200000,
+      "risk": 41,
+      "regime": "volatile",
+      "inputHash": "0x1c9832553bb1ca54b4bb276a0cacba3f5b806a9ff7bbe16784da87e967145208",
+      "tx": "0xe19a1ff157736de54e3d851699316276a7416147f1f016c7a7e2d3a690620fad"
+    },
+    {
+      "block": 12142985,
+      "price": 200120,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x1f3b5c0d70b87ac4e868937a17fcb85430ec2f320d03f3264344af46ac0627fe",
+      "tx": "0xcded4da1bb549a5dc86704bba1873b691496aaa64c6ca9f82915f39888403a5c"
+    },
+    {
+      "block": 12142986,
+      "price": 200060,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x8101675f5529bf2eba91d1f34ee88fb255d7773493657c2ce10ab976924609b5",
+      "tx": "0x0c54276887f489986069217bc74e4dab8f1f53ac0b2f137144ffe36f0f669e1b"
+    },
+    {
+      "block": 12142987,
+      "price": 200210,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x7136bbbbbbb4e881553f1a74b9ed912486c5d7d51f814e9f33aaeec97141f9e4",
+      "tx": "0x21542c12016b5669a3f2ac30365514c0ac1ec83a44cd7ccbd59f9f5c4af50315"
+    },
+    {
+      "block": 12142988,
+      "price": 200150,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0xfc6b6019fc10652dd31d8459973e602233734154a8f7c46f146a01aaae608094",
+      "tx": "0xd1e9f7c518f3a1f51d6458650437012c2eb9eb7db5bb164858819901aa3b694d"
+    },
+    {
+      "block": 12142989,
+      "price": 200090,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x938fec3416df95dec008c640a062195aa5d6bd86e1a2c1104e793d05cdaef0e7",
+      "tx": "0x39c9480f54f70ad55bf8499435e94f62508b797e7239457dd1f227b6787e604d"
+    },
+    {
+      "block": 12142990,
+      "price": 200240,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x2d40c24bc2edd6542296b62ef8b44847b2a09b24fbaf780cff37cef7e1579d13",
+      "tx": "0xb8e2bb811f483cc98b682d6c315a4d62d105b93e2815fb82c725ad33ebd05b8e"
+    },
+    {
+      "block": 12142991,
+      "price": 200180,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x3b203b0b38b907c534618fce2ab2b3974f7161dd3d40a16ad24eec5464142a1b",
+      "tx": "0x3d1c4d28d4a13ce241f235b371294f3866e1a5d2b5673e6f2037cc9355edea8d"
+    },
+    {
+      "block": 12142992,
+      "price": 200260,
+      "risk": 68,
+      "regime": "volatile",
+      "inputHash": "0x822d9481bd0906893593f69b4d2b8add50ac053e15772ada58ae44c77549989b",
+      "tx": "0x581c8f5062541980bdf50e4f82efe0fda996d29e3136d1bbfa71df010c7c823e"
+    },
+    {
+      "block": 12142993,
+      "price": 200200,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x0ec7e85445c324feb3eb188e7db7e1a5177a64bde0a26c83b90f5cffd37fbb23",
+      "tx": "0xb691ad9c5874787beba15fb04cc0a5f7d7b2b8c0866439e31fb10bfc08ec36e9"
+    },
+    {
+      "block": 12142994,
+      "price": 200140,
+      "risk": 68,
+      "regime": "volatile",
+      "inputHash": "0x314ae40220c75184629dbc2c46056de91ee50797e1f81d399c4fbd01d535846b",
+      "tx": "0x42ff28b7d1ff55c865f7d1f31a2cd378715dd19862848c4b251be40788c20712"
+    },
+    {
+      "block": 12142995,
+      "price": 200290,
+      "risk": 68,
+      "regime": "volatile",
+      "inputHash": "0xe9443df9c293f4b624606b150a6239da2f81fa1b07041bf99b848aaada43b96b",
+      "tx": "0x2fe87b7737070b47dc42c7d8c8c5e8092e7c786e09a3b8706effb4df6c84d474"
+    },
+    {
+      "block": 12142996,
+      "price": 200230,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x30084fa1dbc36c392850c0e0f82e35b5ec6468200434a22dde07ef48f5e6cfae",
+      "tx": "0x770026a3bf43c843afa14ae103fbec0806765971ca021815797ff02ffaf4dab7"
+    },
+    {
+      "block": 12142997,
+      "price": 200310,
+      "risk": 68,
+      "regime": "volatile",
+      "inputHash": "0xca1b318973ff4c1c95145030f06d97afce019035a55cfb79296cc2057143d348",
+      "tx": "0x56bd19dfe9d023b3b33e97dc09ec07cd51a08b7d7ae7784c474db93f14192cc4"
+    },
+    {
+      "block": 12142998,
+      "price": 200250,
+      "risk": 70,
+      "regime": "volatile",
+      "inputHash": "0x4685ca45b3fae7202c7cf03adabd08ea4ae32466242c0d97b7feb8c9e7da8899",
+      "tx": "0x42332c8880f053bdf6ff80154cb628696014a713630df006948825ea512c11a5"
+    },
+    {
+      "block": 12142999,
+      "price": 200330,
+      "risk": 16,
+      "regime": "calm",
+      "inputHash": "0xc8d0efe68779db6a39f86a880166af0637d2cda203c4aee44a6885401add843c",
+      "tx": "0x312f4f2ff11a0641eb1529fe04cfa43fea20480d880aef8f22a4d2949e6756e2"
+    },
+    {
+      "block": 12143018,
+      "price": 196000,
+      "risk": 28,
+      "regime": "calm",
+      "inputHash": "0xb1321aef012d28f53de2d15e7e401ce451d990ab3a9593c699d8c6c790477493",
+      "tx": "0x03de933434108ee10a49eeb2cb54d91d209c092301f3360e431b5b05d402416d"
+    },
+    {
+      "block": 12143019,
+      "price": 190500,
+      "risk": 41,
+      "regime": "volatile",
+      "inputHash": "0x90bbbb82c99b50023aa5c72d73301d29aa73efe7811d07beab743f02ecacbcb6",
+      "tx": "0xfd589c9bd6e5ee930bb460879a2aa45e5a6fa7e24b75768d0713fc2ad7c5a3b5"
+    },
+    {
+      "block": 12143020,
+      "price": 184000,
+      "risk": 52,
+      "regime": "volatile",
+      "inputHash": "0x447636a993ee5696e06c4d61e9c865eca5737e7a3b237462ac014da7dba7a0ce",
+      "tx": "0xa9af7007043d37c7dec250992265330e75d77d11c6353a18b85c711f61c7d9fd"
+    },
+    {
+      "block": 12143021,
+      "price": 176500,
+      "risk": 59,
+      "regime": "volatile",
+      "inputHash": "0x7455653ea0f483250bc15c656b2b73217b3005fd0663f1f75da35db557746cc7",
+      "tx": "0xab0692401f74d027efbc914a20cbbc371db6b1e7e2eda4859f79f3a28d1ea537"
+    },
+    {
+      "block": 12143022,
+      "price": 168000,
+      "risk": 63,
+      "regime": "volatile",
+      "inputHash": "0xc83f6c2eaa7129558f485b331e6a69fccbfbf6872c043643d843d04116fac553",
+      "tx": "0xeb65e25de2220a8b0e56ed0eb9163d991d9e340e4d5ee1a68fc4a8bebf1587ea"
+    },
+    {
+      "block": 12143023,
+      "price": 159000,
+      "risk": 71,
+      "regime": "volatile",
+      "inputHash": "0x0ebcb3124506bb1dae8c5277730d7db6c09ae85c7d0d826c0aca8baf44dcd402",
+      "tx": "0x0443ddf879ebb75e05bfdfe026cca7c04a7bebdbd1db3e76f36a8a3e915fa31a"
+    },
+    {
+      "block": 12143024,
+      "price": 149500,
+      "risk": 77,
+      "regime": "volatile",
+      "inputHash": "0x672084eb660382903ed87b23231c04b874161cfce810e6bdddfbd697244f4cf2",
+      "tx": "0xf35e497e338a8af30343517a2c63fbf06495f361ec2acd79d400de9c4b88edbb"
+    },
+    {
+      "block": 12143025,
+      "price": 140000,
+      "risk": 83,
+      "regime": "crash-risk",
+      "inputHash": "0xe409535f2eb4bde2587b6c38df86634b3d0c611a922bdcd2c320fcc1ef76ecc0",
+      "tx": "0xd54cfcd35a0a46e2061400d2fc32cbad692a97d372d4734aad3f4b8c021d8259"
+    },
+    {
+      "block": 12143026,
+      "price": 131000,
+      "risk": 86,
+      "regime": "crash-risk",
+      "inputHash": "0xb4fec09c1e0ec8ec5e2201bea89c45dbc36eba19391733ecef0abe7d5d52cb59",
+      "tx": "0x46d005e49ca916e13678004126789072f2114e2cca7ad5213261469605376b8e"
+    },
+    {
+      "block": 12143027,
+      "price": 123500,
+      "risk": 87,
+      "regime": "crash-risk",
+      "inputHash": "0x1d0e80233776fe1857a44071fa10c7ce6bef750ffe04ef947b51777dd0ed1cf9",
+      "tx": "0x67e70b204f2340d5056b2eacba28cc67286395e401ff646b889882e2d40d7ebb"
+    },
+    {
+      "block": 12143028,
+      "price": 117000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x165043e23706a8f505522ceb41b011eee8d9328152ada9a350b163ac6e0c6375",
+      "tx": "0xd810648de6cf38ea8ab8d35a8bf847367ff924152a001f21b30dc5bf58efb412"
+    },
+    {
+      "block": 12143029,
+      "price": 111500,
+      "risk": 89,
+      "regime": "crash-risk",
+      "inputHash": "0x4a847ddd148f22be329f3a52e8f6a0a07ad96611eb10a2ade25cf919e2386d5b",
+      "tx": "0x0329b41dd3fd3613bfefc612300899c2f163238a9c102d0f6533f6f030411d9b"
+    },
+    {
+      "block": 12143030,
+      "price": 107000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x8dc16cf14f0bef536631b44e0236af8487756b62dd4960ec0976268fffa0d321",
+      "tx": "0xfb0d6daae9903a293b2794e26b04ac919cda3a739838af3737bb5f369371fd16"
+    },
+    {
+      "block": 12143031,
+      "price": 103000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x510cec6e67796832ec741a5b8c100bd8bcab3a686c2860638da58e2ca5fde7f5",
+      "tx": "0x761604d021203628b95052788279f845ff89fc899608b595b6c8faa786272746"
+    },
+    {
+      "block": 12143032,
+      "price": 99500,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x7469bab313d8159f1e892b6acb4c008e4e89c2cfb1e179e79fccc15a67932907",
+      "tx": "0x8026bf59de0cfae88856d5aff16e7140301ca70d2714bbc5a1261dc65cd5eb0d"
+    },
+    {
+      "block": 12143033,
+      "price": 96000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xa92f16adba233fb7e4c5e64eb03688711fdd74563febb30c895df547b9419066",
+      "tx": "0xcb1d34b933e6f18e255ce303afdafa3e78765308609f2a1e94cf9c12e871d7e8"
+    },
+    {
+      "block": 12143056,
+      "price": 98500,
+      "risk": 87,
+      "regime": "crash-risk",
+      "inputHash": "0x5ed63190549feba5e4c3dcc600cf155f7513c0baa5489809ad78d01cf18c1bd1",
+      "tx": "0x6a6980ee8b2b26fcae40059858373d57080269727a1eb37f9e29b24c199dfd60"
+    },
+    {
+      "block": 12143057,
+      "price": 95500,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xd9148bf3ce50cabe17925b19bd77f4b1cfa816313a0564b49ecb804927a9e959",
+      "tx": "0x00f856bcf76c45ddb2f76d0ac222486856119ff46997b2449fc0dd19a632ad36"
+    },
+    {
+      "block": 12143058,
+      "price": 99000,
+      "risk": 87,
+      "regime": "crash-risk",
+      "inputHash": "0x883182b30a510f4e461c63767bd62080653541acfa8c37112e01289db3f164c6",
+      "tx": "0x76c49c1a92d1dc6a7c42ced430614c4c607658ca205b97fd17ea0b69d413f05d"
+    },
+    {
+      "block": 12143059,
+      "price": 96000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xc4a10fd1a609ffb42d644bc3c6f0aa29d781afe3fbed668eaf15d13ffac08733",
+      "tx": "0x785e782f0a5a258167945e3672fe5a97687a24238248668726227829b2dafb58"
+    },
+    {
+      "block": 12143060,
+      "price": 100000,
+      "risk": 84,
+      "regime": "volatile",
+      "inputHash": "0xb2e646d361b472a3e5330a82f1426495100f6703285361bfe8faf70a0162d1a1",
+      "tx": "0x8bda3570725dbe62119cd0ea7a8eca0f3100cdc6c2e70c92709a8def0035884d"
+    },
+    {
+      "block": 12143061,
+      "price": 97000,
+      "risk": 84,
+      "regime": "crash-risk",
+      "inputHash": "0xa4bb400ba073a4059563395d5c6787cb40ef333e8fbe4058f80c6e74efdb4243",
+      "tx": "0x6982a151825f9e4ea4c5dacae5e76c8be3ba2a7c401747d561f348c6d5425cf5"
+    },
+    {
+      "block": 12143062,
+      "price": 99500,
+      "risk": 77,
+      "regime": "volatile",
+      "inputHash": "0xeeae2d57884684fa0f790311d2c2a40288d35042cc7eef0bbdaa154318927274",
+      "tx": "0x2e5e86a3c4985a4e6a46560c806ba2e6550965bf21943474cc91496be58c3f52"
+    },
+    {
+      "block": 12143063,
+      "price": 96500,
+      "risk": 74,
+      "regime": "volatile",
+      "inputHash": "0xe0a1a4ab287460f4f667f531e26ba5721d92c14e09e8ccdd65a49cc21b7f7a2c",
+      "tx": "0x0d75ef3112931a2b32f1861b4ffb4ec2e3fcc28584bd39a183f5292528ab6280"
+    },
+    {
+      "block": 12143064,
+      "price": 100500,
+      "risk": 61,
+      "regime": "volatile",
+      "inputHash": "0xafaf37b4e4dc44566726722beee9bf97614915d407eb5283434130f52b6215e7",
+      "tx": "0x41ad9a30cdd4916c87a5f223ced774b8538e12b79686bfad55a0fd81f7264767"
+    },
+    {
+      "block": 12143065,
+      "price": 97500,
+      "risk": 61,
+      "regime": "volatile",
+      "inputHash": "0xe88e2410fea19347f564c7a15d6db7d76aeaae8c4822fb1a27f37b0eceb53833",
+      "tx": "0xd8eece1c3842d34b545e3a7642be8c785bbe41ae0d3f0fb233b6e62047ab7c6c"
+    },
+    {
+      "block": 12143066,
+      "price": 99000,
+      "risk": 54,
+      "regime": "volatile",
+      "inputHash": "0xa4c6a551d01e0e27510ae72937440224c697a6336059459909157e49cc087442",
+      "tx": "0x05ec1bbde2710572dad8a83c7e8bf6ea864b3cd33f4505678d2e6c0114c27417"
+    },
+    {
+      "block": 12143067,
+      "price": 96000,
+      "risk": 55,
+      "regime": "volatile",
+      "inputHash": "0xf6bda1e21de33883a4e0e8ba19ca7506c9d51d38c0aaa393fccb54fde77eb6fd",
+      "tx": "0xdeee1479edee807650d7bb6e71e2575fd9a4ef9f692e0256ce3db6242ab15488"
+    },
+    {
+      "block": 12143068,
+      "price": 98500,
+      "risk": 50,
+      "regime": "volatile",
+      "inputHash": "0x74fa6dcd366d930310b4fb74224895e375de76604431b3dbd80e2dd8cfd5ef3e",
+      "tx": "0x3d8351c531917e3ffa3f9cd22c8669298b03c0d36f9e63e40e1f1d4f11280a5d"
+    },
+    {
+      "block": 12143069,
+      "price": 95500,
+      "risk": 52,
+      "regime": "volatile",
+      "inputHash": "0xdf03d21ce93f6e482fb943a59362df25a3ce081cbc3d2e301ca1d2bd29744103",
+      "tx": "0x7651ebb3b932cb61a3d0297df1b13aa4a7f281f8feb8592c6cca85233bdefe5d"
+    },
+    {
+      "block": 12143070,
+      "price": 99000,
+      "risk": 50,
+      "regime": "volatile",
+      "inputHash": "0x5dcd30c6ae332b99c35819927180b4c50bb5323f8022e2c10706c3b0068c347d",
+      "tx": "0x110ebd2a6f2a27be4a38a01f8f64efebd05190bee2911a88e6457d3fd58c1b39"
+    },
+    {
+      "block": 12143071,
+      "price": 97500,
+      "risk": 52,
+      "regime": "volatile",
+      "inputHash": "0x1f2b133b3d2f089918f81c8adb82ec8e82199a9cee5a030b1ab51dd91e6ec713",
+      "tx": "0xf32d3654ed0eae47e02101d43ce86a390daf187d88aea03eb91dee82940800ef"
+    },
+    {
+      "block": 12143162,
+      "price": 200000,
+      "risk": 41,
+      "regime": "volatile",
+      "inputHash": "0x1c9832553bb1ca54b4bb276a0cacba3f5b806a9ff7bbe16784da87e967145208",
+      "tx": "0x3441beca69d256191c760ee466766675bee87c4b949422835bb6695ee8d5f415"
+    },
+    {
+      "block": 12143163,
+      "price": 200120,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x1f3b5c0d70b87ac4e868937a17fcb85430ec2f320d03f3264344af46ac0627fe",
+      "tx": "0x344b748046637bdeb5fca10c2e78a36c237dbda67a45b1f1d5d30d7b092b40a6"
+    },
+    {
+      "block": 12143164,
+      "price": 200060,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x8101675f5529bf2eba91d1f34ee88fb255d7773493657c2ce10ab976924609b5",
+      "tx": "0xff5a83be70af55f267851aa53d99ac2db22ec73038ab59eb25b31e2afaccea3f"
+    },
+    {
+      "block": 12143165,
+      "price": 200210,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x7136bbbbbbb4e881553f1a74b9ed912486c5d7d51f814e9f33aaeec97141f9e4",
+      "tx": "0x0ffb79f76b1f46eebb0ca756c854d62a520dbdf913890010e118a10299bd7285"
+    },
+    {
+      "block": 12143166,
+      "price": 200150,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0xfc6b6019fc10652dd31d8459973e602233734154a8f7c46f146a01aaae608094",
+      "tx": "0x2425ee185914c102e4f246344565e4f2bf995cec66b7d98b11ad3fccd86dacaa"
+    },
+    {
+      "block": 12143167,
+      "price": 200090,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x938fec3416df95dec008c640a062195aa5d6bd86e1a2c1104e793d05cdaef0e7",
+      "tx": "0x0422141270014b3dd0acb90063cb76de9cac26dc1f779d9f992478781f5aeaaa"
+    },
+    {
+      "block": 12143168,
+      "price": 200240,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x2d40c24bc2edd6542296b62ef8b44847b2a09b24fbaf780cff37cef7e1579d13",
+      "tx": "0x19ce147cdbae19746e521e56ad6f2995f95b069344900394e2846b17490a15c7"
+    },
+    {
+      "block": 12143169,
+      "price": 200180,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0x3b203b0b38b907c534618fce2ab2b3974f7161dd3d40a16ad24eec5464142a1b",
+      "tx": "0xc5cc3fefae0c99bfd3a9b56e88c6fa4f401cc8dd4848aa8df5df5d8b2ed0ce23"
+    },
+    {
+      "block": 12143182,
+      "price": 196000,
+      "risk": 69,
+      "regime": "volatile",
+      "inputHash": "0xe335c731e14f88cf440c1db05f172b5b485810c3ef3589a6acbcacf025df9fea",
+      "tx": "0xef7c1f93d3748aa4b3fb3af8d2216ad50b8b595f00504cab371fa5ea8ae0a98f"
+    },
+    {
+      "block": 12143183,
+      "price": 190500,
+      "risk": 71,
+      "regime": "volatile",
+      "inputHash": "0x9272e3e5553b242cac6e78705d933440045cdc274da7afdc9b9a8bbd94c348f4",
+      "tx": "0x28ebe376ad443b77c50ed0a61baf9899263e0518dc96e8b6c646d4fa0f80e6ee"
+    },
+    {
+      "block": 12143184,
+      "price": 184000,
+      "risk": 72,
+      "regime": "volatile",
+      "inputHash": "0x40292c3c054436a10d563cdec836ef24481776568a1801e1a632d65ca3bdfaf9",
+      "tx": "0xe9e5cfc35c6d9d71aa01b106a5f912aad7b24d22510f28b7568e24823de5b448"
+    },
+    {
+      "block": 12143185,
+      "price": 176500,
+      "risk": 73,
+      "regime": "volatile",
+      "inputHash": "0x38a09fc9e6f0b1e0d185629c0f70a75f766e46525c67c4c3522e40a647e0d596",
+      "tx": "0x6a4d30baebc22351f9dfaf7c22cdb780ede5a7032482ef690e5e25b5c71cfa37"
+    },
+    {
+      "block": 12143186,
+      "price": 168000,
+      "risk": 72,
+      "regime": "volatile",
+      "inputHash": "0x8fca0d47b650da6aff62bc55d421edf1b02f39dbaacf2d1d5bba75ae2e3a5adf",
+      "tx": "0x86a15ebc7ba374da1072c15d0da3a5accbb3d3349f5b622e68ab15455a4f6809"
+    },
+    {
+      "block": 12143187,
+      "price": 159000,
+      "risk": 74,
+      "regime": "volatile",
+      "inputHash": "0x822c6a6f46d7893b86125e11331c7ea051ec3c2bc8305ee0022bb7aa37b6e46b",
+      "tx": "0xfdc8cf39ed01b72f0c9fe7234af49c6540074d6d3e11f2d5853af649661a6a43"
+    },
+    {
+      "block": 12143188,
+      "price": 149500,
+      "risk": 74,
+      "regime": "volatile",
+      "inputHash": "0xd05855e0ac7e0d87b405282085425c74cdc561dc8e2557e27e94a4be67876dbb",
+      "tx": "0x2d2d4831b6fbcb5f8c90a02c3531e5d6c0656721b1672c1b793c2cc543896cc9"
+    },
+    {
+      "block": 12143189,
+      "price": 140000,
+      "risk": 83,
+      "regime": "crash-risk",
+      "inputHash": "0xe77cd847ff799f27dc2b0dee95a20da0e4af313301e3319562dd0530a26c22b9",
+      "tx": "0x609e8f42701286612c00ea2d28b6c8fbed8bcdc677627946f1267e0cabc3e352"
+    },
+    {
+      "block": 12143190,
+      "price": 131000,
+      "risk": 86,
+      "regime": "crash-risk",
+      "inputHash": "0x1d81e1b2881fbf7709ead7ba4c0613ca5f6b4219bc098a4b81de5b3a7405ee74",
+      "tx": "0x3c11662f57ac5879103eb667cc1edaefeff44dd02b74e18f66edf8af496fa8e5"
+    },
+    {
+      "block": 12143191,
+      "price": 123500,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xc24dbdc81285057cedae0f8e91b44aa866b07db2855c3e115a32298ec95938fa",
+      "tx": "0x65d5bb057bffeb506ecdbf532b52aea378827b5da304fe676bb27b2a1ab45826"
+    },
+    {
+      "block": 12143192,
+      "price": 117000,
+      "risk": 89,
+      "regime": "crash-risk",
+      "inputHash": "0x6566b497d445b8907f5ba0227d053da9978db1ab02607ab3186245c9b81e9747",
+      "tx": "0x7f9a9dead37fcbf89d3b4430dd3e5d04635407d6d265f460a0a434af3fbe582d"
+    },
+    {
+      "block": 12143193,
+      "price": 111500,
+      "risk": 89,
+      "regime": "crash-risk",
+      "inputHash": "0x8adfa555cb744ffd286ea2e26279dbf0589b47cb08604f15d91baf48220af879",
+      "tx": "0x16ec42714ef136b68d63c9b675a7611393141cfc4dc40157b2b0f1923e716f40"
+    },
+    {
+      "block": 12143194,
+      "price": 107000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xa9b8c151d47afbcf884aa11d4a141c181d31af6bef8accb11acbad8cc2c9fe32",
+      "tx": "0xd689d5f8a1177511f209e7c4b943d0fd3d358f20b4cbf089f2f0ad4312231711"
+    },
+    {
+      "block": 12143195,
+      "price": 103000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0x8b942714acc27c0d0221142668362495d8e61012ae969f76e1d28e2f627bb2ec",
+      "tx": "0x2918919a1e0176e90bbe6be27eafef4cb257d9d33070dc52e75b6c0789289d5a"
+    },
+    {
+      "block": 12143196,
+      "price": 99500,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xf737cceefe0a05cba31f81cad6c43787725c6a6450609adfc38a5b10db9dbb56",
+      "tx": "0x4a4c7246512989b6314c2848cf046680f187f45efc5a2bd63950a59e7a4cd125"
+    },
+    {
+      "block": 12143197,
+      "price": 96000,
+      "risk": 88,
+      "regime": "crash-risk",
+      "inputHash": "0xa92f16adba233fb7e4c5e64eb03688711fdd74563febb30c895df547b9419066",
+      "tx": "0x47adb8b47994f870464f3f35d29bf8fdf93fe2dfba3491229a0a0e8819a4f1d2"
+    }
+  ]
+}

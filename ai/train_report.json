@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "train_windows": 3000,
+  "test_windows": 900,
+  "held_out_regime_accuracy": 1.0,
+  "held_out_risk_mae": 6.56,
+  "per_regime_accuracy": {
+    "calm": 1.0,
+    "volatile": 1.0,
+    "crash-risk": 1.0
+  },
+  "demo_windows": {
+    "calm_window": {
+      "regime": "calm",
+      "risk": 16.4,
+      "probs": [
+        1.0,
+        0.0,
+        0.0
+      ]
+    },
+    "crash_window": {
+      "regime": "crash-risk",
+      "risk": 87.5,
+      "probs": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  }
+}
