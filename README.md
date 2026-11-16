@@ -268,6 +268,14 @@ sentinel/
 └── foundry.toml               # solc 0.8.38, reactive-lib-omni v0.1.0
 ```
 
+### Dependencies
+
+The contracts build against two libraries, expected under `lib/` (see the `foundry.toml` remappings):
+- `forge-std` — install with `forge install foundry-rs/forge-std`
+- `reactive-lib-omni` **v0.1.0** (the official Reactive Omni library) — place it at `lib/reactive-lib-omni` so the `@reactive/` remapping resolves.
+
+The development copy used for the on-chain runs vendors both under `lib/`; a fresh clone of this repo needs the two installs above before `forge test`.
+
 ### Run the tests
 
 ```bash
